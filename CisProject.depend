@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1688573912 source:c:\users\youssef\desktop\cis stage task\cisproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"card.h"
+	"terminal.h"
+	"server.h"
+
+1688653853 c:\users\youssef\desktop\cis stage task\cisproject\card.h
+
+1688654351 c:\users\youssef\desktop\cis stage task\cisproject\terminal.h
+	"card.h"
+	<stdbool.h>
+
+1688654421 c:\users\youssef\desktop\cis stage task\cisproject\server.h
+	"card.h"
+	"terminal.h"
+
+1688653532 source:c:\users\youssef\desktop\cis stage task\cisproject\app.c
+	"card.h"
+	"terminal.h"
+	"server.h"
+	<stdbool.h>
+	<stdio.h>
+
+1688568106 source:c:\users\youssef\desktop\cis stage task\cisproject\card.c
+	"card.h"
+	<stdio.h>
+	<stdbool.h>
+
+1688573513 source:c:\users\youssef\desktop\cis stage task\cisproject\terminal.c
+	"terminal.h"
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1688573513 source:c:\users\youssef\desktop\cis stage task\cisproject\server.c
+	"server.h"
+	<stdio.h>
+	<stdbool.h>
+
